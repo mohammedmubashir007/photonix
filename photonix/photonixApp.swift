@@ -11,7 +11,7 @@ import SwiftUI
 struct photonixApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingPage_1()
         }
     }
 }
